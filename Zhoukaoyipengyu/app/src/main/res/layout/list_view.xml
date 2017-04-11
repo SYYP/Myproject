@@ -19,7 +19,8 @@
         android:layout_height="100dp"
         android:background="@mipmap/ic_launcher"
         android:layout_alignTop="@+id/titles"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="10dp"/>
 
     <TextView
         android:id="@+id/count"
